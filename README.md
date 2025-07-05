@@ -77,4 +77,5 @@ The implementation was done in **Google Colab** using the following Python libra
 Accuracy Score       : 0.10
 Prediction Example:
 ```plaintext
-![image](https://github.com/user-attachments/assets/c936b081-2eb8-4346-a0a3-1a48cdf9f58c)
+![Student Chart](https://github.com/user-attachments/assets/45cf8e8d-abb1-4bc7-8378-ab4d2b445e2a.png)
+
